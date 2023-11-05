@@ -1,4 +1,4 @@
-# my-project
+# Expense Calculation App
 for Amer Elruby git project
 
-##project notes
+##project notes 
